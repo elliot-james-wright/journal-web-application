@@ -1,0 +1,78 @@
+.header {
+  background-color: #323232;
+  margin: 0;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: relative;
+  font-family: 'my monospace', monospace;
+}
+
+.body {
+  background-color: #212121;
+  position: relative;
+  margin-left: 130px;
+  font-family: 'my monospace', monospace;
+}
+
+input[type="text"] {
+  background-color: #323232;
+  font-family: 'my monospace', monospace;
+  font-size:16px;
+  width: 350px;
+  color: #14ffec
+}
+
+textarea {
+  background-color: #323232;
+  font-family: 'my monospace', monospace;
+  color: #14ffec
+}
+
+input[type="submit"] {
+  background-color: #323232;
+  font-family: 'my monospace', monospace;
+  color: #14ffec
+}
+
+#title {
+  position: absolute;
+  top: 20px;
+  left: 130px;
+}
+
+#home {
+  position: absolute;
+  top: 25px;
+  right: 510px;
+}
+
+#compose {
+  position: absolute;
+  top: 25px;
+  right: 390px;
+}
+
+#about {
+  position: absolute;
+  top: 25px;
+  right: 270px;
+}
+
+#contact {
+  position: absolute;
+  top: 25px;
+  right: 140px;
+}
+
+body {
+  background-color: #212121;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  color: #14ffec
+}
+
+a {
+  text-decoration: none;
+  color: #14ffec
+}
